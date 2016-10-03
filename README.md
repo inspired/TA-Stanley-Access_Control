@@ -1,5 +1,9 @@
 # TA-Stanley-Access_Control
-Splunk TA for Stanley Access Control Logs retrieved from database with DB Connect
+Splunk TA for Stanley Access Control Logs retrieved from database with DB Connect.
+All sources/destinations/assets are prefixed with "Door_" for easier asset management
+
+# CIM compatibility
+* Authentication
 
 ## Sample event
 
