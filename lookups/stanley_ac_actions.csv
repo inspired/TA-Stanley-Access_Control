@@ -1,0 +1,5 @@
+vendor_action,vendor_message_text,action
+17232,"Wrong PIN",failure
+17238,"Granted Access",success
+17239,"At Wrong Door",failure
+17260,"Floor Access",success
